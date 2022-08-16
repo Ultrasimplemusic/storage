@@ -1,0 +1,1 @@
+Pool of comman resources shared among various pages
